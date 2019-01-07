@@ -12,3 +12,6 @@ class Dog
     @@all = []
   end
 end
+
+jake = Dog.new("Jake")
+jake.name
